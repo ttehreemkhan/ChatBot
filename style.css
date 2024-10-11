@@ -1,0 +1,58 @@
+body {
+  background-image: url(back\ 2.jfif);
+  margin: 0%;
+  padding: 0%;
+}
+.num-1 {
+  overflow: scroll;
+  margin-top: 10px;
+  margin-left: 370px;
+  background-image: url(back\ img.jfif);
+  border-radius: 20px;
+  width: 50vw;
+  height: 80vh;
+  color: white;
+}
+.bar {
+  cursor: pointer;
+  position: relative;
+ margin-bottom: -30px ;
+ margin-top: -20px ;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.num-2 input {
+  margin-left: -10px;
+  width: 760px;
+  height: 40px;
+  border-radius: 12px;
+  font-size: 20px;
+  border: 8px solid rgb(23, 27, 16);
+}
+.num-2 ul li {
+  list-style: none;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.left {
+  background-color: rgb(25, 16, 16);
+  border-radius: 10px;
+  margin-right: 600px;
+  justify-content: center;
+  align-items: baseline;
+  text-align: center;
+}
+.right {
+  background-color: rgb(7, 8, 8);
+  border-radius: 10px;
+  margin-left: 500px;
+  justify-content: center;
+  align-items: baseline;
+  text-align: center;
+}
